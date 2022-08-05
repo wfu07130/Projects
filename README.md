@@ -1,12 +1,15 @@
-# hw2: INTERPRETER
+#TABLE OF CONTENTS:
+
+
+# Project 1: hw2 - INTERPRETER
 
 Using the BASIC language, create an interpreter that is able to take in a series of statements and provide outputs to the specified stream, depending on the statement functionality.
 
-# PERMUTATIONS
+# Project 2: PERMUTATIONS
 
 Print out all possible reorderings of a given word.
 
-# RSA
+# Project 3: RSA
 
 Decryption and Encryption Program using RSA
 Using Modular Expontiation Algorithm and Euclidean Algorithm
