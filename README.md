@@ -28,3 +28,7 @@ To decrypt:
 TO COMPILE:
  - just do "make" command in directory
 
+# Project 4: RoomMatcher
+Find your next potential college roomates through this website! Begin matching with people near you and find your next best friend!
+Web Dev Project, contains front end and back end
+Utilizes SQL, HTML, Javascript, CSS Styling
